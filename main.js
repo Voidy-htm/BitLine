@@ -19,7 +19,7 @@ window.addEventListener('load', () => {
         lPage.classList.add('hidden');
         site.style.animation = 'enter 1s ease-in'
         site.classList.remove('hidden')
-    }, );
+    }, 3000);
 })
 
 
